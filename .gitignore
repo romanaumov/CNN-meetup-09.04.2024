@@ -1,0 +1,9 @@
+
+# ignore all .mp4, .zip, .tfr files
+*.mp4
+*.zip
+*.tfr
+Draft
+Final
+Images
+Reference presentations
